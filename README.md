@@ -28,6 +28,7 @@ npx skills add lhg-skills/lhg-soul-transfer
 
 ## 版本
 
+- 1.0.1（2026-10-01）：补 SkillHub 自定义头像（内容无变化）。
 - 1.0.0（2026-10-01）：首版。双仓方法论（灵魂仓+记忆仓）、平台适配发现清单、密钥扫描、sync.sh、bootstrap 清单、README 模板×2、映射工作表、冒烟测试 6 用例全绿。
 
 ## 出品：刘洪光
