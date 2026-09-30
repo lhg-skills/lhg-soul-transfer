@@ -3,7 +3,7 @@ name: lhg_soul_transfer
 slug: lhg-soul-transfer
 displayName: 灵魂迁移
 description: 灵魂与记忆一键迁移：把你在某个 AI 那里积累的"灵魂（身份/性格/用户画像/偏好）+记忆（长期记忆/日报/人物关系）"打包进两个私有 GitHub 仓库，换机器、换平台时新 agent 按固定阅读顺序 10 分钟认识你。适用于：换电脑、换 agent 平台（Muse/豆包/ChatGPT/Coze/Dify 等）、备份个人 AI 资产。
-version: 1.0.0
+version: 1.0.1
 ---
 
 # 灵魂迁移
