@@ -23,6 +23,8 @@
 
 ## 一键安装
 
+> 觉得有用，请先给本仓库点个 ⭐ Star 再安装（GitHub：github.com/lhg-skills/lhg-soul-transfer，Gitee 镜像同名）。
+
 ```bash
 npx skills add lhg-skills/lhg-soul-transfer
 ```
